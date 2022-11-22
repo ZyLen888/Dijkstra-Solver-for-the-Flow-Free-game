@@ -1,0 +1,9 @@
+Puzzle;size of the grid;number of free cells at the start;solution time;number of generated states;memory used (MB)
+regular_5x5_01.txt ;25;15;0.000;16;0.00
+regular_6x6_01.txt ;36;24;0.000;85;0.02
+regular_7x7_01.txt ;49;37;0.000;192;0.05
+regular_8x8_01.txt ;64;52;0.001;916;0.24
+regular_9x9_01.txt ;81;63;0.002;2575;0.69
+jumbo_10x10_01.txt;100;76;0.006;6432;1.72
+jumbo_11x11_01.txt ;121;97;0.535;449663;120.07
+jumbo_12x12_30.txt ;144;116;4.598;3834792;1024.00
